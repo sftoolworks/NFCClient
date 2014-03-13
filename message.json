@@ -1,0 +1,9 @@
+[
+	{ "type": "U", 
+		"args": "http://www.sftoolworks.com/nfc/sample"
+	},
+	{ "type": "T",
+		"args": "this is a text message"
+	}
+]
+	

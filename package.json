@@ -1,0 +1,16 @@
+{
+  "name": "nfc-client",
+  "preferGlobal": false,
+  "version": "0.1.1",
+  "author": "SF Toolworks <info@sftoolworks.com>",
+  "description": "A basic client for the usb-nfc project board",
+  "main": "./nfc-client.js",
+  "dependencies" : {
+    "serialport" :  "1.x"
+  },
+  "analyze": false,
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.10"
+  }
+}

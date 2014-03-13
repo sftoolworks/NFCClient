@@ -1,0 +1,12 @@
+[
+	{ "type": "U", 
+		"args": "http://www.sftoolworks.com/nfc/options"
+	},
+	{ "type": "T",
+		"args": "placeholder"
+	},
+	{ "type": "android.com:pkg", 
+		"args": "com.sftoolworks.nfcoptions"
+	}
+]
+	

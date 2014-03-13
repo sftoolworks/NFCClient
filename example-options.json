@@ -1,0 +1,23 @@
+{
+	"title": "Please select one!",
+	"key": "horse",
+	
+	"options": 
+	[
+		{
+			"title": "First choice",
+			"label": "good price",
+			"value": 10
+		},
+		{
+			"title": "Alternate choice",
+			"label": "good form",
+			"value": 20
+		},
+		{
+			"title": "Third choice",
+			"label": "low maintenance",
+			"value": 30
+		}
+	]
+}
